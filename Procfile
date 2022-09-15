@@ -1,1 +1,1 @@
-web: gunicorn Quotes: app
+web: gunicorn Quotes:app
